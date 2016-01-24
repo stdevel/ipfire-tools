@@ -8,3 +8,5 @@ It displays the following information:
 - Public IP (*via http://www.wtfismyip.com service*)
 - Download/Upload volume and rate in kB/s for red, green, blue, orange and purple networks
 - Connected WLAN devices and OpenVPN tunnel counter
+
+See also [my blog](http://st-devel.net/blipf) for more details on this setup.
